@@ -1,0 +1,24 @@
+# Laravel
+laravel-app/vendor/
+laravel-app/.env
+laravel-app/node_modules/
+laravel-app/storage/logs/*.log
+laravel-app/storage/framework/cache/
+laravel-app/storage/framework/sessions/
+laravel-app/storage/framework/views/
+laravel-app/public/hot
+laravel-app/public/storage
+laravel-app/.phpunit.result.cache
+laravel-app/bootstrap/cache/*.php
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
